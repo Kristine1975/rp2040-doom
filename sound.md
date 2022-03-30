@@ -1,8 +1,3 @@
----
-title: RP2040 Doom
-description: Music And Sound
----
-
 This is part of the series behind the scenes of RP2040 Doom:
 
 * [Introduction](index.md)
